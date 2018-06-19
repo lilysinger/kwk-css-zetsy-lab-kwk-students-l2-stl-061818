@@ -12,8 +12,7 @@ body {
 
 .wrapper {
 	width: 200px;
-	margin-right:auto;
-	margin-left: 
+	margin:0 ;
 	background: #fff;
 	padding: 250px 250px;
 }
