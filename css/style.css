@@ -10,6 +10,11 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
-
+.wrapper {
+	width: 960px;
+	margin-right: 200px;
+	background: #fff;
+	padding: 0 45px 20px;
+}
 
 /* Write all remaining styles here */
